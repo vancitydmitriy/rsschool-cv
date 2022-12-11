@@ -1,2 +1,2 @@
 # rsschool-cv
-12345
+https://vancitydmitriy.github.io/rsschool-cv/
